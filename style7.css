@@ -1,0 +1,46 @@
+body{
+	border-width: 4px;
+	border-style: solid;
+	border-color: lightblue;
+	padding-top: 19px;
+	padding-bottom: 16px;
+
+
+}
+
+
+    
+   
+   .h1{ boder-color: slateblue;
+   	    border-width: 2px;
+   	    border-style: solid;
+   	    background-color:blue;
+   	    color: white;
+   	    margin: auto;
+   	    padding-top: 12px;
+   	   }
+
+   li{
+        	
+        	color: white;
+        	margin-right: 10px;
+        	margin-left: 10px;
+        	padding-top: 37px;
+        	padding-bottom: 20px;
+            float: right;
+          list-style: none;
+          font-size: px;
+      }
+
+
+  .p-box{
+  	color: purples;
+  }
+
+ img{}
+
+
+  .para{
+
+  	margin-left: 13px;
+  }

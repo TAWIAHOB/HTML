@@ -1,0 +1,27 @@
+body{
+  background-color:lightblue;
+  color:black;
+border-width: 1px;
+border-style: solid;
+border-color:black;
+margin-top: 48px;
+margin-right: 409px;
+margin-bottom: 409px;
+margin-left: 409px;
+}
+
+h1{ color:blue ;
+  padding-top: 37px;
+}
+  
+ button{
+  position: relative;
+  bottom: 23px;
+  left: 10px;
+  background-color: limegreen;
+  border:none ;
+  color: white;
+  width: 80px;
+  height: 40px;
+  border-radius: 8px;
+ }
